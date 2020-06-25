@@ -1,2 +1,1 @@
-# MATLAB
-MATLAB contains all codes have written using the programming language
+List of codes written in various programming languages during learning stages
