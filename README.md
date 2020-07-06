@@ -1,1 +1,1 @@
-MATLAB contains code that might be helpful to programmers.
+MATLAB contains codes that might be helpful to programmers.
