@@ -1,1 +1,1 @@
-List of codes written in various programming languages during learning stages
+MATLAB contains code that might be helpful to programmers.
